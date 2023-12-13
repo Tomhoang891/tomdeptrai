@@ -9,6 +9,5 @@ namespace Tom_3.Models
     internal class Student
     {
         public int MSSV { get; set; }
-        public int ID { get; set; }
     }
 }
